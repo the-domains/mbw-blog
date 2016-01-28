@@ -2,6 +2,7 @@ name: MBW BLOG
 favicon: null
 layout_spectrum: 0.07529683876782656
 typography_spectrum: 0.7841209354810417
+title: MBW BLOG
 cta:
   domain: null
   bucket: null
