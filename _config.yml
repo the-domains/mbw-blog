@@ -1,0 +1,28 @@
+name: MBW BLOG
+favicon: null
+layout_spectrum: 0.07529683876782656
+typography_spectrum: 0.7841209354810417
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.22112967865541577
+  lightness: 0.6550818562973291
+  saturation: 0.24846690520644188
+  rhythmicContrast: 0.27144769625738263
+purpose: []
