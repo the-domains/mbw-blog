@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MBW BLOG]]></title>
         <description><![CDATA[MBW BLOG]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mbw-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 19:41:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 03:28:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mbw-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ba16f85-41c7-4c46-a77f-e5e6e9566106.jpg">]]></description>
+            <link>https://thegrid.ai/mbw-blog/gmc-design-sketch/index.html</link>
+            <guid isPermaLink="false">4bf922ae-1b7e-470d-bb01-ec5a978c08db</guid>
+            <pubDate>Fri, 10 Jun 2016 03:28:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PORSCHE SUNDAY]]></title>
-            <description><![CDATA[<article><h1>PORSCHE SUNDAY</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91b8c82d747a2bd99d328d836a5e97e6a3e02d6f.jpg"></article>]]></description>
-            <link>undefinedporsche-sunday/index.html</link>
+            <description><![CDATA[<article><h1>PORSCHE SUNDAY</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a039413406e84f7a5bfe900eeefdbdbae6b61ac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mbw-blog/porsche-sunday/index.html</link>
             <guid isPermaLink="false">efa349f2-bf91-4257-90d9-279c349e4441</guid>
             <pubDate>Thu, 28 Jan 2016 19:39:45 GMT</pubDate>
         </item>
